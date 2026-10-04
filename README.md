@@ -18,7 +18,7 @@ At Exquisite Bliss Boutique, the goal is to use data to make that decision faste
 
 Instead of randomly suggesting colours, Color Psychic learns from previous client choices and identifies patterns in what clients with similar preferences have selected.
 
----
+
 
 🔮 What Color Psychic Does
 
@@ -29,7 +29,7 @@ Color Psychic recommends 3 nail-polish colours for a client based on two sources
 
 The system then combines these signals to produce a personalised shortlist of three recommendations.
 
-Example
+Example: 
 
 A client has previously chosen:
 
@@ -39,11 +39,11 @@ Clients with similar preferences frequently choose:
 
 "Rose Gold" · "French White" · "Mocha"
 
-Color Psychic can use these patterns to recommend:
+Color Psychic can use these patterns to recommend similar styles:
 
-«1. Rose Gold
-2. Mocha
-3. French White»
+1. Red Gold
+2. Pink gold
+3. Taupe
 
 The aim is not to tell the client what they must choose.
 
