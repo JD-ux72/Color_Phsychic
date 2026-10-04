@@ -1,4 +1,4 @@
-💅🏽 Color Psychic
+# 💅🏽 Color Psychic
 
 <div align="center">✦ Turn “I don't know what colour I want” into a confident choice. ✦
 
