@@ -8,7 +8,7 @@ A personalised nail-polish recommendation system powered by collaborative filter
 
 </div>---
 
-🌸 The Problem
+🌸 The Problem that is addressed:
 
 «“I don't know what colour I want.”»
 
