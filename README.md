@@ -100,7 +100,7 @@ Additional features can be introduced as the dataset grows.
 
 ---
 
-⚙️ How It Works
+⚙️ How this Works
 
 1. Collect
 
