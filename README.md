@@ -27,7 +27,7 @@ Color Psychic recommends 3 nail-polish colours for a client based on two sources
 - 💅🏽 The client's own history — colours they have previously chosen
 - 👯 Similar clients — colours chosen by clients with comparable preferences
 
-The system then combines these signals to produce a personalised shortlist of three recommendations.
+The system then combines these signals to make a more personalised shortlist of three recommendations.
 
 Example: 
 
@@ -87,7 +87,7 @@ This allows the system to discover relationships that may not be obvious from th
 
 📊 Data
 
-The recommendation engine can work with historical booking data containing information such as:
+The recommendation engine can work with historical booking data containing information like:
 
 Field| Description
 "client_id"| Unique client identifier
