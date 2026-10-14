@@ -14,7 +14,7 @@ A personalised nail-polish recommendation system powered by collaborative filter
 
 It sounds simple, but this question can take several minutes to resolve for each client.
 
-At Exquisite Bliss Boutique, the goal is to use data to make that decision faster while still keeping the recommendation personal.
+At Exquisite Bliss Boutique, the goal is to make use of the current data to make that decision faster while still keeping the recommendation personal.
 
 Instead of randomly suggesting colours, Color Psychic learns from previous client choices and identifies patterns in what clients with similar preferences have selected.
 
