@@ -1,7 +1,7 @@
 # 💅🏽 Color Psychic
 <img src= "https://github.com/JD-ux72/Color_Phsychic/blob/main/Color_Phsychic%20.jpg"/>
 
-<div align="center">✦ Turn “I don't know what colour I want” into a confident choice. ✦
+<div align="center">
 
 A personalised nail-polish recommendation system powered by collaborative filtering.
 
