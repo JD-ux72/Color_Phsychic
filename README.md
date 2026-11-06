@@ -1,5 +1,4 @@
 # 💅🏽 Color Psychic
-<img src= "https://github.com/JD-ux72/Color_Phsychic/blob/main/Color_Phsychic%20.jpg"/>
 
 <div align="center">
 
